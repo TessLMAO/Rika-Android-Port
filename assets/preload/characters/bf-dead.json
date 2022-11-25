@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				37,
-				11
+				144
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				37,
-				5
+				47
 			],
 			"loop": true,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				43,
+				151
 			],
 			"loop": false,
 			"fps": 24,
@@ -37,8 +37,8 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND_DEAD",
 	"position": [
-		0,
-		350
+		-160,
+		180
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,9 +48,9 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		-170,
+		30
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.7
 }
